@@ -1,0 +1,1 @@
+streamlit>=1.38,<2\npandas>=2.2,<3\nnumpy>=1.26,<3\nplotly>=5.24,<7\npython-dotenv>=1.0,<2\n
