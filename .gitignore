@@ -1,1 +1,9 @@
-.env\n.venv/\n__pycache__/\n*.py[cod]\n.pytest_cache/\n.streamlit/secrets.toml\n*.db\n*.sqlite3\n.DS_Store\n
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+*.db
+*.sqlite3
+.DS_Store
